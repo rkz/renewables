@@ -1,0 +1,3 @@
+https://ourworldindata.org/grapher/per-capita-electricity-source-stacked
+
+Electricity generation data => Renewables take load factors into account

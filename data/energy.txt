@@ -1,0 +1,5 @@
+https://ourworldindata.org/energy
+
+https://ourworldindata.org/explorers/energy?tab=chart&facet=none&country=USA~GBR~CHN~OWID_WRL~IND~BRA~ZAF&hideControls=false&Total+or+Breakdown=Total&Energy+or+Electricity=Primary+energy&Metric=Per+capita+consumption
+
+Energy used per capita
