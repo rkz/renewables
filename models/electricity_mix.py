@@ -38,6 +38,8 @@ def _build_energy_categories(source):
 
     aggregated["fossil"] = source["coal"] + source["gas"] + source["oil"]
     aggregated["nuclear"] = source["nuclear"]
+    aggregated["wind"] = source["wind"]
+    aggregated["solar"] = source["solar"]
     aggregated["wind_solar"] = source["wind"] + source["solar"]
     aggregated["all_renewable"] = aggregated["wind_solar"] + source["hydro"] + source["other_renewable"]
 
