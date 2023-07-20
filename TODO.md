@@ -1,8 +1,12 @@
-Todo list:
+# Todo list
 
-- Tests and/or contracts
-- Color scale
+## Analysis
 
 - Carbon footprint -> emissions for electricity production
 - Split wind / solar
-- Solar vs ensoleillement moyen / m2 à la longitude
+- Solar vs mean radiative flux at the considered latitude
+
+## Meta
+
+- Tests and/or contracts
+- Color scale
