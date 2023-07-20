@@ -15,6 +15,8 @@ Portugal, Spain, Italy (and Greece to a lesser extent) tackle the triple challen
 2. an acceptable carbon footprint (for now);
 3. an energy use yet compatible with good living standards.
 
+[Full results](https://htmlpreview.github.io/?https://github.com/rkz/renewables/blob/master/result/main.html)
+
 ## How to run
 
 ```
